@@ -1,4 +1,4 @@
-# Knockri Full Stack (React) Coding Assessment
+# EarlyDay (React) Coding Assessment
 
 ## Overview
 
@@ -54,4 +54,9 @@ API can be launched using npm start. You will need to run npm install once you s
 More info about API usage can be found at the [json-server repo](https://github.com/typicode/json-server).
 
 ---
+
+## Bonus Points 
+ - Using Tailwind css
+ - Mobile responsive
+
 
