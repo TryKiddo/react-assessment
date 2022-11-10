@@ -58,5 +58,8 @@ More info about API usage can be found at the [json-server repo](https://github.
 ## Bonus Points 
  - Using Tailwind css
  - Mobile responsive
+ - Url based routing
+ - Handling loading states/transitions
+ - Tests
 
 
